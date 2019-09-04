@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+<!-- public-->
+    <string name="btn_determine">確定</string>
+
+<!-- main screen-->
+    <string name="btn_switch">水閘門開關</string>
+    <string name="btn_condition">定時條件</string>
+    <string name="btn_record">操作紀錄</string>
+    <string name="btn_setting">設定</string>
+    <string name="txt_connection">連線中</string>
+    <string name="txt_disconnection">未連線</string>
+
+<!-- password screen-->
+    <string name="btn_forget">忘記密碼</string>
+    <string name="txt_hint">密碼提示</string>
+    <string name="txt_hint">輸入錯誤!!與預設答案不符</string>
+
+<!-- Bluetooth-->
+    <string name="txt_bluetooth">藍芽</string>
+
+<!-- switch-->
+    <string name="btn_open">開啟水閘門</string>
+    <string name="btn_close">關閉水閘門</string>
+
+</resources>
